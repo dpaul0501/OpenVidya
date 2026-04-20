@@ -1,0 +1,1218 @@
+[
+  {
+    "chapterNumber": 1,
+    "chapterName": "Chemical Reactions and Equations",
+    "subject": "Chemistry",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c1_01",
+        "name": "Chemical Equations",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Reactants -> Products",
+        "oneliner": "Symbolic representation of a chemical change.",
+        "examWeight": "medium",
+        "commonError": "Not balancing the equation properly."
+      },
+      {
+        "id": "c1_02",
+        "name": "Law of Conservation of Mass",
+        "order": 2,
+        "prerequisites": [
+          "c1_01"
+        ],
+        "keyFormula": "Mass of reactants = Mass of products",
+        "oneliner": "Mass is neither created nor destroyed in a reaction.",
+        "examWeight": "high",
+        "commonError": "Thinking mass can change if gas escapes."
+      },
+      {
+        "id": "c1_03",
+        "name": "Combination Reactions",
+        "order": 3,
+        "prerequisites": [
+          "c1_01"
+        ],
+        "keyFormula": "A + B -> AB",
+        "oneliner": "Two or more reactants combine to form a single product.",
+        "examWeight": "medium",
+        "commonError": "Confusing with displacement reactions."
+      },
+      {
+        "id": "c1_04",
+        "name": "Decomposition Reactions",
+        "order": 4,
+        "prerequisites": [
+          "c1_01"
+        ],
+        "keyFormula": "AB -> A + B",
+        "oneliner": "A single reactant breaks down into multiple products.",
+        "examWeight": "high",
+        "commonError": "Forgetting that decomposition usually requires energy (heat/light)."
+      },
+      {
+        "id": "c1_05",
+        "name": "Displacement Reactions",
+        "order": 5,
+        "prerequisites": [
+          "c1_01"
+        ],
+        "keyFormula": "A + BC -> AC + B",
+        "oneliner": "More reactive element displaces less reactive one.",
+        "examWeight": "high",
+        "commonError": "Displacing a more reactive metal with a less reactive one."
+      },
+      {
+        "id": "c1_06",
+        "name": "Double Displacement Reactions",
+        "order": 6,
+        "prerequisites": [
+          "c1_01"
+        ],
+        "keyFormula": "AB + CD -> AD + CB",
+        "oneliner": "Exchange of ions between reactants to form new compounds.",
+        "examWeight": "medium",
+        "commonError": "Thinking all double displacements are precipitations."
+      },
+      {
+        "id": "c1_07",
+        "name": "Redox Reactions",
+        "order": 7,
+        "prerequisites": [
+          "c1_01"
+        ],
+        "keyFormula": "Oxidation + Reduction",
+        "oneliner": "Simultaneous loss and gain of oxygen or electrons.",
+        "examWeight": "high",
+        "commonError": "Identifying the product as the oxidized/reduced substance instead of the reactant."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 2,
+    "chapterName": "Acids, Bases and Salts",
+    "subject": "Chemistry",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c2_01",
+        "name": "Nature of Acids and Bases",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "H+ (Acids) / OH- (Bases)",
+        "oneliner": "Acids produce H+ ions; Bases produce OH- ions in water.",
+        "examWeight": "medium",
+        "commonError": "Thinking all hydrogen-containing compounds are acidic."
+      },
+      {
+        "id": "c2_02",
+        "name": "pH Scale",
+        "order": 2,
+        "prerequisites": [
+          "c2_01"
+        ],
+        "keyFormula": "pH = -log[H+]",
+        "oneliner": "Measurement of acidity or alkalinity (0-14).",
+        "examWeight": "high",
+        "commonError": "Thinking high pH means high acidity."
+      },
+      {
+        "id": "c2_03",
+        "name": "Neutralization Reaction",
+        "order": 3,
+        "prerequisites": [
+          "c2_01"
+        ],
+        "keyFormula": "Acid + Base -> Salt + Water",
+        "oneliner": "Reaction between H+ and OH- to form water.",
+        "examWeight": "high",
+        "commonError": "Assuming the resulting salt is always neutral (pH 7)."
+      },
+      {
+        "id": "c2_04",
+        "name": "Chlor-alkali Process",
+        "order": 4,
+        "prerequisites": [
+          "c2_01"
+        ],
+        "keyFormula": "2NaCl + 2H2O -> 2NaOH + Cl2 + H2",
+        "oneliner": "Electrolysis of brine to produce sodium hydroxide and chlorine.",
+        "examWeight": "high",
+        "commonError": "Confusing products at anode and cathode."
+      },
+      {
+        "id": "c2_05",
+        "name": "Bleaching Powder",
+        "order": 5,
+        "prerequisites": [],
+        "keyFormula": "CaOCl2",
+        "oneliner": "Produced by action of chlorine on dry slaked lime.",
+        "examWeight": "medium",
+        "commonError": "Writing formula as CaClO2."
+      },
+      {
+        "id": "c2_06",
+        "name": "Baking Soda & Washing Soda",
+        "order": 6,
+        "prerequisites": [],
+        "keyFormula": "NaHCO3 / Na2CO3.10H2O",
+        "oneliner": "Sodium salts used in cooking and cleaning.",
+        "examWeight": "high",
+        "commonError": "Confusing the formulas of the two sodas."
+      },
+      {
+        "id": "c2_07",
+        "name": "Plaster of Paris",
+        "order": 7,
+        "prerequisites": [],
+        "keyFormula": "CaSO4.1/2H2O",
+        "oneliner": "Hemihydrate of calcium sulphate used in medicine and construction.",
+        "examWeight": "high",
+        "commonError": "Mixing up the amount of water of crystallization."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 3,
+    "chapterName": "Metals and Non-metals",
+    "subject": "Chemistry",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c3_01",
+        "name": "Physical Properties",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "N/A",
+        "oneliner": "Malleability, ductility, and conductivity differences.",
+        "examWeight": "low",
+        "commonError": "Assuming all metals are solids at room temperature (Mercury exception)."
+      },
+      {
+        "id": "c3_02",
+        "name": "Chemical Properties of Metals",
+        "order": 2,
+        "prerequisites": [],
+        "keyFormula": "Metal + O2 -> Metal Oxide",
+        "oneliner": "Reactions with oxygen, water, and acids.",
+        "examWeight": "medium",
+        "commonError": "Thinking all metals react with cold water."
+      },
+      {
+        "id": "c3_03",
+        "name": "Reactivity Series",
+        "order": 3,
+        "prerequisites": [
+          "c3_02"
+        ],
+        "keyFormula": "K > Na > Ca > ... > Au",
+        "oneliner": "List of metals in decreasing order of reactivity.",
+        "examWeight": "high",
+        "commonError": "Misplacing Hydrogen in the series."
+      },
+      {
+        "id": "c3_04",
+        "name": "Ionic Compounds",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "Electrostatic Force",
+        "oneliner": "Formed by transfer of electrons from metal to non-metal.",
+        "examWeight": "high",
+        "commonError": "Assuming ionic compounds conduct in solid state."
+      },
+      {
+        "id": "c3_05",
+        "name": "Metallurgy: Extraction",
+        "order": 5,
+        "prerequisites": [
+          "c3_03"
+        ],
+        "keyFormula": "Reduction of Oxide",
+        "oneliner": "Process of obtaining pure metal from its ore.",
+        "examWeight": "high",
+        "commonError": "Confusing roasting (with air) and calcination (limited air)."
+      },
+      {
+        "id": "c3_06",
+        "name": "Refining of Metals",
+        "order": 6,
+        "prerequisites": [
+          "c3_05"
+        ],
+        "keyFormula": "Electrolytic Refining",
+        "oneliner": "Purification using electrolysis.",
+        "examWeight": "medium",
+        "commonError": "Putting impure metal at the cathode."
+      },
+      {
+        "id": "c3_07",
+        "name": "Corrosion and Prevention",
+        "order": 7,
+        "prerequisites": [],
+        "keyFormula": "N/A",
+        "oneliner": "Deterioration of metals and methods like galvanization.",
+        "examWeight": "medium",
+        "commonError": "Thinking galvanization is done with copper."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 4,
+    "chapterName": "Carbon and its Compounds",
+    "subject": "Chemistry",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c4_01",
+        "name": "Covalent Bonding",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Sharing electrons",
+        "oneliner": "Carbon forms bonds by sharing its 4 valence electrons.",
+        "examWeight": "medium",
+        "commonError": "Thinking carbon forms C4+ or C4- ions."
+      },
+      {
+        "id": "c4_02",
+        "name": "Versatile Nature of Carbon",
+        "order": 2,
+        "prerequisites": [
+          "c4_01"
+        ],
+        "keyFormula": "Catenation & Tetravalency",
+        "oneliner": "Ability to form long chains and four bonds.",
+        "examWeight": "high",
+        "commonError": "Underestimating the number of possible carbon compounds."
+      },
+      {
+        "id": "c4_03",
+        "name": "Saturated and Unsaturated Hydrocarbons",
+        "order": 3,
+        "prerequisites": [
+          "c4_02"
+        ],
+        "keyFormula": "CnH2n+2 / CnH2n / CnH2n-2",
+        "oneliner": "Alkanes (single), Alkenes (double), and Alkynes (triple bonds).",
+        "examWeight": "high",
+        "commonError": "Mixing up the general formulas."
+      },
+      {
+        "id": "c4_04",
+        "name": "Functional Groups",
+        "order": 4,
+        "prerequisites": [
+          "c4_03"
+        ],
+        "keyFormula": "-OH, -CHO, -COOH, -CO-",
+        "oneliner": "Atoms or groups determining chemical properties.",
+        "examWeight": "high",
+        "commonError": "Identifying alcohol as -CHO or vice versa."
+      },
+      {
+        "id": "c4_05",
+        "name": "Homologous Series",
+        "order": 5,
+        "prerequisites": [
+          "c4_04"
+        ],
+        "keyFormula": "Differs by -CH2-",
+        "oneliner": "Series of compounds with same functional group.",
+        "examWeight": "medium",
+        "commonError": "Thinking members have different chemical properties."
+      },
+      {
+        "id": "c4_06",
+        "name": "Chemical Properties of Carbon",
+        "order": 6,
+        "prerequisites": [
+          "c4_03"
+        ],
+        "keyFormula": "Combustion, Oxidation, Addition",
+        "oneliner": "Key reactions of hydrocarbons.",
+        "examWeight": "high",
+        "commonError": "Addition reactions occurring in saturated hydrocarbons."
+      },
+      {
+        "id": "c4_07",
+        "name": "Soaps and Detergents",
+        "order": 7,
+        "prerequisites": [],
+        "keyFormula": "Micelle formation",
+        "oneliner": "Cleansing action via hydrophilic and hydrophobic ends.",
+        "examWeight": "high",
+        "commonError": "Thinking soaps work well in hard water."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 5,
+    "chapterName": "Periodic Classification of Elements",
+    "subject": "Chemistry",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c5_01",
+        "name": "Early Attempts",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Triads / Octaves",
+        "oneliner": "Dobereiner and Newlands' grouping based on atomic mass.",
+        "examWeight": "low",
+        "commonError": "Thinking these laws applied to all known elements."
+      },
+      {
+        "id": "c5_02",
+        "name": "Mendeleev's Periodic Table",
+        "order": 2,
+        "prerequisites": [],
+        "keyFormula": "Periodic Function of Atomic Mass",
+        "oneliner": "Elements arranged by mass with gaps for undiscovered ones.",
+        "examWeight": "medium",
+        "commonError": "Ignoring the isotopes and cobalt-nickel anomaly."
+      },
+      {
+        "id": "c5_03",
+        "name": "Modern Periodic Law",
+        "order": 3,
+        "prerequisites": [],
+        "keyFormula": "Periodic Function of Atomic Number",
+        "oneliner": "Henry Moseley's classification based on atomic number.",
+        "examWeight": "high",
+        "commonError": "Confusing with Mendeleev's mass-based law."
+      },
+      {
+        "id": "c5_04",
+        "name": "Groups and Periods",
+        "order": 4,
+        "prerequisites": [
+          "c5_03"
+        ],
+        "keyFormula": "18 Groups / 7 Periods",
+        "oneliner": "The vertical and horizontal layout of the table.",
+        "examWeight": "medium",
+        "commonError": "Thinking group number equals number of shells."
+      },
+      {
+        "id": "c5_05",
+        "name": "Trends: Valency & Size",
+        "order": 5,
+        "prerequisites": [
+          "c5_04"
+        ],
+        "keyFormula": "Z_eff (Effective Nuclear Charge)",
+        "oneliner": "Valency varies 1-4-0; size decreases across, increases down.",
+        "examWeight": "high",
+        "commonError": "Thinking atomic size increases across a period due to more electrons."
+      },
+      {
+        "id": "c5_06",
+        "name": "Trends: Metallic Character",
+        "order": 6,
+        "prerequisites": [
+          "c5_05"
+        ],
+        "keyFormula": "Electronegativity",
+        "oneliner": "Decreases across a period, increases down a group.",
+        "examWeight": "high",
+        "commonError": "Forgetting non-metals are on the right side."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 6,
+    "chapterName": "Life Processes",
+    "subject": "Biology",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c6_01",
+        "name": "Autotrophic Nutrition",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Photosynthesis Eq",
+        "oneliner": "Plants making food using light, CO2, and water.",
+        "examWeight": "high",
+        "commonError": "Thinking photosynthesis happens at night."
+      },
+      {
+        "id": "c6_02",
+        "name": "Heterotrophic Nutrition",
+        "order": 2,
+        "prerequisites": [],
+        "keyFormula": "N/A",
+        "oneliner": "Obtaining energy from other organisms (Holozoic, Saprophytic, Parasitic).",
+        "examWeight": "medium",
+        "commonError": "Confusing saprophytes with parasites."
+      },
+      {
+        "id": "c6_03",
+        "name": "Digestion in Humans",
+        "order": 3,
+        "prerequisites": [],
+        "keyFormula": "Enzymes (Amylase, Pepsin, Lipase)",
+        "oneliner": "Breakdown of food into absorbable molecules.",
+        "examWeight": "high",
+        "commonError": "Assuming digestion starts in the stomach."
+      },
+      {
+        "id": "c6_04",
+        "name": "Respiration: Aerobic vs Anaerobic",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "Glucose -> CO2 + H2O + ATP",
+        "oneliner": "Release of energy from food with or without oxygen.",
+        "examWeight": "high",
+        "commonError": "Confusing respiration with simple breathing."
+      },
+      {
+        "id": "c6_05",
+        "name": "Human Respiratory System",
+        "order": 5,
+        "prerequisites": [
+          "c6_04"
+        ],
+        "keyFormula": "Hemoglobin transport",
+        "oneliner": "Lungs, alveoli, and gas exchange mechanisms.",
+        "examWeight": "medium",
+        "commonError": "Thinking Alveoli are part of the circulatory system."
+      },
+      {
+        "id": "c6_06",
+        "name": "Transportation in Humans",
+        "order": 6,
+        "prerequisites": [],
+        "keyFormula": "Double Circulation",
+        "oneliner": "Heart pumping blood through pulmonary and systemic circuits.",
+        "examWeight": "high",
+        "commonError": "Confusing artery and vein functions in pulmonary circuit."
+      },
+      {
+        "id": "c6_07",
+        "name": "Transportation in Plants",
+        "order": 7,
+        "prerequisites": [],
+        "keyFormula": "Xylem (Water) / Phloem (Food)",
+        "oneliner": "Movement of water and nutrients using transpiration pull and translocation.",
+        "examWeight": "medium",
+        "commonError": "Thinking phloem transport is only downwards."
+      },
+      {
+        "id": "c6_08",
+        "name": "Excretion in Humans",
+        "order": 8,
+        "prerequisites": [],
+        "keyFormula": "Nephron structure",
+        "oneliner": "Removal of nitrogenous waste via kidneys.",
+        "examWeight": "high",
+        "commonError": "Confusing nephron with neuron."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 7,
+    "chapterName": "Control and Coordination",
+    "subject": "Biology",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c7_01",
+        "name": "Nervous System: Neurons",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Synaptic Transmission",
+        "oneliner": "Functional units that transmit electrical impulses.",
+        "examWeight": "medium",
+        "commonError": "Thinking electrical signals cross the synapse directly."
+      },
+      {
+        "id": "c7_02",
+        "name": "Reflex Action",
+        "order": 2,
+        "prerequisites": [
+          "c7_01"
+        ],
+        "keyFormula": "Reflex Arc",
+        "oneliner": "Sudden, involuntary response to a stimulus.",
+        "examWeight": "high",
+        "commonError": "Thinking the brain is always involved in the immediate reflex loop."
+      },
+      {
+        "id": "c7_03",
+        "name": "Human Brain",
+        "order": 3,
+        "prerequisites": [
+          "c7_01"
+        ],
+        "keyFormula": "Fore, Mid, Hindbrain",
+        "oneliner": "The main coordinating center of the body.",
+        "examWeight": "high",
+        "commonError": "Confusing the functions of Cerebrum and Cerebellum."
+      },
+      {
+        "id": "c7_04",
+        "name": "Plant Hormones (Phytohormones)",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "Auxins, Gibberellins, ABA",
+        "oneliner": "Chemicals controlling growth and responses in plants.",
+        "examWeight": "high",
+        "commonError": "Thinking all plant hormones promote growth (ABA inhibits)."
+      },
+      {
+        "id": "c7_05",
+        "name": "Plant Movements",
+        "order": 5,
+        "prerequisites": [
+          "c7_04"
+        ],
+        "keyFormula": "Tropic vs Nastic",
+        "oneliner": "Directional (tropism) and non-directional (nastic) movements.",
+        "examWeight": "medium",
+        "commonError": "Calling the 'Touch-me-not' closure a tropism."
+      },
+      {
+        "id": "c7_06",
+        "name": "Endocrine System",
+        "order": 6,
+        "prerequisites": [],
+        "keyFormula": "Hormones in Blood",
+        "oneliner": "Glands secreting hormones like Insulin, Adrenaline, Thyroxin.",
+        "examWeight": "high",
+        "commonError": "Mixing up the target organs for various hormones."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 8,
+    "chapterName": "How do Organisms Reproduce?",
+    "subject": "Biology",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c8_01",
+        "name": "Asexual Reproduction",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Fission, Budding, Spore formation",
+        "oneliner": "Reproduction involving a single parent.",
+        "examWeight": "medium",
+        "commonError": "Confusing binary fission (Amoeba) with multiple fission (Plasmodium)."
+      },
+      {
+        "id": "c8_02",
+        "name": "Vegetative Propagation",
+        "order": 2,
+        "prerequisites": [],
+        "keyFormula": "Roots, Stems, Leaves",
+        "oneliner": "Asexual reproduction in plants using vegetative parts.",
+        "examWeight": "medium",
+        "commonError": "Thinking it creates more genetic variation than sexual reproduction."
+      },
+      {
+        "id": "c8_03",
+        "name": "Sexual Reproduction in Flowering Plants",
+        "order": 3,
+        "prerequisites": [],
+        "keyFormula": "Pollination -> Fertilization",
+        "oneliner": "Formation of seeds via male and female gametes.",
+        "examWeight": "high",
+        "commonError": "Confusing pollination with fertilization."
+      },
+      {
+        "id": "c8_04",
+        "name": "Human Male Reproductive System",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "Sperms/Testosterone",
+        "oneliner": "Production of sperm and male hormones in testes.",
+        "examWeight": "medium",
+        "commonError": "Thinking the prostate gland produces sperm."
+      },
+      {
+        "id": "c8_05",
+        "name": "Human Female Reproductive System",
+        "order": 5,
+        "prerequisites": [],
+        "keyFormula": "Ovum/Estrogen/Progesterone",
+        "oneliner": "Production of eggs and female hormones; Menstrual cycle.",
+        "examWeight": "high",
+        "commonError": "Misunderstanding the site of fertilization (it's the Fallopian tube)."
+      },
+      {
+        "id": "c8_06",
+        "name": "Reproductive Health & Contraception",
+        "order": 6,
+        "prerequisites": [],
+        "keyFormula": "Barrier, Chemical, Surgical",
+        "oneliner": "Methods to prevent pregnancy and STDs.",
+        "examWeight": "high",
+        "commonError": "Thinking chemical methods (pills) protect against STDs."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 9,
+    "chapterName": "Heredity and Evolution",
+    "subject": "Biology",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c9_01",
+        "name": "Accumulation of Variation",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "N/A",
+        "oneliner": "Small differences appearing in offspring due to reproduction.",
+        "examWeight": "low",
+        "commonError": "Thinking asexual reproduction shows no variation at all."
+      },
+      {
+        "id": "c9_02",
+        "name": "Mendel's Laws of Inheritance",
+        "order": 2,
+        "prerequisites": [],
+        "keyFormula": "3:1 Phenotype / 1:2:1 Genotype",
+        "oneliner": "Rules governing the transfer of traits from parents.",
+        "examWeight": "high",
+        "commonError": "Confusing genotype with phenotype."
+      },
+      {
+        "id": "c9_03",
+        "name": "Sex Determination",
+        "order": 3,
+        "prerequisites": [
+          "c9_02"
+        ],
+        "keyFormula": "XX (Female) / XY (Male)",
+        "oneliner": "Genetic mechanism determining the gender of a child.",
+        "examWeight": "high",
+        "commonError": "Blaming the mother for the gender of the child."
+      },
+      {
+        "id": "c9_04",
+        "name": "Acquired vs Inherited Traits",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "Somatic vs Germ cells",
+        "oneliner": "Traits learned vs traits passed via DNA.",
+        "examWeight": "medium",
+        "commonError": "Thinking acquired traits (like muscle mass) are inherited."
+      },
+      {
+        "id": "c9_05",
+        "name": "Speciation",
+        "order": 5,
+        "prerequisites": [],
+        "keyFormula": "Genetic Drift / Natural Selection",
+        "oneliner": "Formation of new and distinct species in the course of evolution.",
+        "examWeight": "medium",
+        "commonError": "Thinking an individual evolves (only populations do)."
+      },
+      {
+        "id": "c9_06",
+        "name": "Evidence for Evolution",
+        "order": 6,
+        "prerequisites": [],
+        "keyFormula": "Homologous / Analogous / Fossils",
+        "oneliner": "Morphological and anatomical evidence of common ancestry.",
+        "examWeight": "high",
+        "commonError": "Confusing homologous (same origin) with analogous (same function)."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 10,
+    "chapterName": "Light: Reflection and Refraction",
+    "subject": "Physics",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c10_01",
+        "name": "Reflection Laws & Plane Mirrors",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "i = r",
+        "oneliner": "Bouncing back of light from surfaces.",
+        "examWeight": "low",
+        "commonError": "Measuring angles with the surface instead of the normal."
+      },
+      {
+        "id": "c10_02",
+        "name": "Spherical Mirrors",
+        "order": 2,
+        "prerequisites": [
+          "c10_01"
+        ],
+        "keyFormula": "R = 2f",
+        "oneliner": "Concave and convex mirrors and their terminology.",
+        "examWeight": "medium",
+        "commonError": "Thinking the focus is always in front of the mirror (virtual focus for convex)."
+      },
+      {
+        "id": "c10_03",
+        "name": "Mirror Formula and Magnification",
+        "order": 3,
+        "prerequisites": [
+          "c10_02"
+        ],
+        "keyFormula": "1/v + 1/u = 1/f",
+        "oneliner": "Relating object distance, image distance, and focal length.",
+        "examWeight": "high",
+        "commonError": "Incorrect sign convention for 'u' (always negative)."
+      },
+      {
+        "id": "c10_04",
+        "name": "Refraction & Refractive Index",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "n = sin i / sin r",
+        "oneliner": "Bending of light as it moves between media.",
+        "examWeight": "high",
+        "commonError": "Thinking light bends away from normal when entering a denser medium."
+      },
+      {
+        "id": "c10_05",
+        "name": "Spherical Lenses",
+        "order": 5,
+        "prerequisites": [
+          "c10_04"
+        ],
+        "keyFormula": "Optical Center",
+        "oneliner": "Image formation by convex and concave lenses.",
+        "examWeight": "medium",
+        "commonError": "Confusing lens shapes with mirror behaviors."
+      },
+      {
+        "id": "c10_06",
+        "name": "Lens Formula and Magnification",
+        "order": 6,
+        "prerequisites": [
+          "c10_05"
+        ],
+        "keyFormula": "1/v - 1/u = 1/f",
+        "oneliner": "Mathematical relationship for lenses.",
+        "examWeight": "high",
+        "commonError": "Confusing the minus sign in lens formula with the plus in mirror formula."
+      },
+      {
+        "id": "c10_07",
+        "name": "Power of a Lens",
+        "order": 7,
+        "prerequisites": [
+          "c10_06"
+        ],
+        "keyFormula": "P = 1/f (in meters)",
+        "oneliner": "Degree of convergence or divergence.",
+        "examWeight": "high",
+        "commonError": "Using focal length in cm without converting to meters."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 11,
+    "chapterName": "Human Eye and the Colorful World",
+    "subject": "Physics",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c11_01",
+        "name": "Human Eye Structure",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Retina (Screen)",
+        "oneliner": "Anatomy and function of eye parts.",
+        "examWeight": "medium",
+        "commonError": "Thinking the lens does all the refraction (cornea does most)."
+      },
+      {
+        "id": "c11_02",
+        "name": "Accommodation Power",
+        "order": 2,
+        "prerequisites": [
+          "c11_01"
+        ],
+        "keyFormula": "f varies",
+        "oneliner": "Ability to change focal length to see near and far.",
+        "examWeight": "medium",
+        "commonError": "Assuming the near point is the same for everyone."
+      },
+      {
+        "id": "c11_03",
+        "name": "Defects of Vision",
+        "order": 3,
+        "prerequisites": [
+          "c11_02"
+        ],
+        "keyFormula": "Myopia / Hypermetropia",
+        "oneliner": "Focusing errors and their corrections.",
+        "examWeight": "high",
+        "commonError": "Using a convex lens to correct myopia."
+      },
+      {
+        "id": "c11_04",
+        "name": "Dispersion through Prism",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "VIBGYOR",
+        "oneliner": "Splitting of white light into its component colors.",
+        "examWeight": "high",
+        "commonError": "Thinking the prism creates colors (it only separates them)."
+      },
+      {
+        "id": "c11_05",
+        "name": "Atmospheric Refraction",
+        "order": 5,
+        "prerequisites": [],
+        "keyFormula": "Apparent Position",
+        "oneliner": "Twinkling of stars and early sunrise/delayed sunset.",
+        "examWeight": "high",
+        "commonError": "Attributing twinkling to scattering instead of refraction."
+      },
+      {
+        "id": "c11_06",
+        "name": "Scattering of Light",
+        "order": 6,
+        "prerequisites": [],
+        "keyFormula": "Tyndall Effect",
+        "oneliner": "Color of sky and sun at sunrise/sunset.",
+        "examWeight": "high",
+        "commonError": "Thinking the sky is blue because it reflects the ocean."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 12,
+    "chapterName": "Electricity",
+    "subject": "Physics",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c12_01",
+        "name": "Electric Current and Circuit",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "I = Q/t",
+        "oneliner": "Rate of flow of electric charge.",
+        "examWeight": "medium",
+        "commonError": "Confusing the direction of conventional current with electron flow."
+      },
+      {
+        "id": "c12_02",
+        "name": "Potential Difference",
+        "order": 2,
+        "prerequisites": [
+          "c12_01"
+        ],
+        "keyFormula": "V = W/Q",
+        "oneliner": "Work done to move a unit charge.",
+        "examWeight": "medium",
+        "commonError": "Thinking potential difference is the same as current."
+      },
+      {
+        "id": "c12_03",
+        "name": "Ohm's Law",
+        "order": 3,
+        "prerequisites": [
+          "c12_02"
+        ],
+        "keyFormula": "V = IR",
+        "oneliner": "Voltage is proportional to current at constant temp.",
+        "examWeight": "high",
+        "commonError": "Applying it to components where temperature varies significantly."
+      },
+      {
+        "id": "c12_04",
+        "name": "Resistance & Resistivity",
+        "order": 4,
+        "prerequisites": [
+          "c12_03"
+        ],
+        "keyFormula": "R = rho * L/A",
+        "oneliner": "Factors affecting the opposition to current flow.",
+        "examWeight": "high",
+        "commonError": "Thinking resistivity depends on length or area (it's material specific)."
+      },
+      {
+        "id": "c12_05",
+        "name": "Combination of Resistors",
+        "order": 5,
+        "prerequisites": [
+          "c12_04"
+        ],
+        "keyFormula": "Rs = sum R; 1/Rp = sum 1/R",
+        "oneliner": "Calculating total resistance in series and parallel.",
+        "examWeight": "high",
+        "commonError": "Adding resistors in parallel like they are in series."
+      },
+      {
+        "id": "c12_06",
+        "name": "Heating Effect of Current",
+        "order": 6,
+        "prerequisites": [
+          "c12_05"
+        ],
+        "keyFormula": "H = I^2 R t",
+        "oneliner": "Production of heat due to resistance.",
+        "examWeight": "high",
+        "commonError": "Using 'V' in the formula without accounting for R change."
+      },
+      {
+        "id": "c12_07",
+        "name": "Electric Power",
+        "order": 7,
+        "prerequisites": [
+          "c12_06"
+        ],
+        "keyFormula": "P = VI = I^2 R = V^2 / R",
+        "oneliner": "Rate at which electrical energy is consumed.",
+        "examWeight": "high",
+        "commonError": "Using incorrect units (Power should be in Watts)."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 13,
+    "chapterName": "Magnetic Effects of Electric Current",
+    "subject": "Physics",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c13_01",
+        "name": "Magnetic Field Lines",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "N to S (Outside)",
+        "oneliner": "Visualizing the strength and direction of magnetic fields.",
+        "examWeight": "medium",
+        "commonError": "Thinking field lines can intersect."
+      },
+      {
+        "id": "c13_02",
+        "name": "Field due to Current-Carrying Wires",
+        "order": 2,
+        "prerequisites": [
+          "c13_01"
+        ],
+        "keyFormula": "Right Hand Thumb Rule",
+        "oneliner": "Magnetic field around straight wires and circular loops.",
+        "examWeight": "high",
+        "commonError": "Using the wrong hand for the rule."
+      },
+      {
+        "id": "c13_03",
+        "name": "Solenoid",
+        "order": 3,
+        "prerequisites": [
+          "c13_02"
+        ],
+        "keyFormula": "B proportional to nI",
+        "oneliner": "Coil acting as a bar magnet when current flows.",
+        "examWeight": "high",
+        "commonError": "Thinking the field inside is zero (it's uniform)."
+      },
+      {
+        "id": "c13_04",
+        "name": "Force on a Conductor",
+        "order": 4,
+        "prerequisites": [
+          "c13_02"
+        ],
+        "keyFormula": "Fleming's Left Hand Rule",
+        "oneliner": "Force experienced by a wire in a magnetic field.",
+        "examWeight": "high",
+        "commonError": "Confusing Forefinger (Field) with Middle finger (Current)."
+      },
+      {
+        "id": "c13_05",
+        "name": "Electromagnetic Induction",
+        "order": 5,
+        "prerequisites": [
+          "c13_04"
+        ],
+        "keyFormula": "Fleming's Right Hand Rule",
+        "oneliner": "Generating current by moving a magnet relative to a coil.",
+        "examWeight": "high",
+        "commonError": "Thinking induction happens if both magnet and coil are stationary."
+      },
+      {
+        "id": "c13_06",
+        "name": "Domestic Circuits",
+        "order": 6,
+        "prerequisites": [],
+        "keyFormula": "Live, Neutral, Earth",
+        "oneliner": "Safety features like fuses and earthing.",
+        "examWeight": "medium",
+        "commonError": "Connecting the fuse to the neutral wire."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 14,
+    "chapterName": "Sources of Energy",
+    "subject": "Physics",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c14_01",
+        "name": "Conventional Sources",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Fossil Fuels",
+        "oneliner": "Coal, petroleum, and their environmental impacts.",
+        "examWeight": "medium",
+        "commonError": "Thinking fossil fuels are renewable."
+      },
+      {
+        "id": "c14_02",
+        "name": "Hydro and Wind Energy",
+        "order": 2,
+        "prerequisites": [],
+        "keyFormula": "KE/PE to Electric",
+        "oneliner": "Mechanical sources of power generation.",
+        "examWeight": "medium",
+        "commonError": "Ignoring the ecological damage of big dams."
+      },
+      {
+        "id": "c14_03",
+        "name": "Solar Energy",
+        "order": 3,
+        "prerequisites": [],
+        "keyFormula": "Photovoltaic effect",
+        "oneliner": "Harnessing energy directly from the sun.",
+        "examWeight": "high",
+        "commonError": "Thinking solar cells work at full efficiency on cloudy days."
+      },
+      {
+        "id": "c14_04",
+        "name": "Bio-mass and Bio-gas",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "Anaerobic Decomposition",
+        "oneliner": "Energy from organic waste.",
+        "examWeight": "medium",
+        "commonError": "Confusing bio-gas with natural gas (LPG)."
+      },
+      {
+        "id": "c14_05",
+        "name": "Nuclear Energy",
+        "order": 5,
+        "prerequisites": [],
+        "keyFormula": "E = mc^2",
+        "oneliner": "Energy from fission or fusion of atoms.",
+        "examWeight": "high",
+        "commonError": "Thinking current power plants use fusion (they use fission)."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 15,
+    "chapterName": "Our Environment",
+    "subject": "Biology",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c15_01",
+        "name": "Ecosystem Components",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "Biotic + Abiotic",
+        "oneliner": "Interacting living and non-living parts of nature.",
+        "examWeight": "low",
+        "commonError": "Forgetting that humans are part of the ecosystem."
+      },
+      {
+        "id": "c15_02",
+        "name": "Food Chains and Webs",
+        "order": 2,
+        "prerequisites": [
+          "c15_01"
+        ],
+        "keyFormula": "10% Law",
+        "oneliner": "Flow of energy and matter through trophic levels.",
+        "examWeight": "high",
+        "commonError": "Thinking energy flow is bidirectional (it's unidirectional)."
+      },
+      {
+        "id": "c15_03",
+        "name": "Biological Magnification",
+        "order": 3,
+        "prerequisites": [
+          "c15_02"
+        ],
+        "keyFormula": "Accumulation",
+        "oneliner": "Increase in toxic concentration at higher trophic levels.",
+        "examWeight": "high",
+        "commonError": "Thinking the concentration is highest at the producer level."
+      },
+      {
+        "id": "c15_04",
+        "name": "Ozone Layer Depletion",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "CFCs + UV -> O3 breakdown",
+        "oneliner": "Destruction of the protective layer by pollutants.",
+        "examWeight": "high",
+        "commonError": "Thinking the 'hole' is a physical hole in the air."
+      },
+      {
+        "id": "c15_05",
+        "name": "Waste Management",
+        "order": 5,
+        "prerequisites": [],
+        "keyFormula": "Biodegradable vs Non-",
+        "oneliner": "Handling and reducing garbage disposal issues.",
+        "examWeight": "medium",
+        "commonError": "Assuming all plastic is biodegradable."
+      }
+    ]
+  },
+  {
+    "chapterNumber": 16,
+    "chapterName": "Management of Natural Resources",
+    "subject": "Biology",
+    "class": 10,
+    "concepts": [
+      {
+        "id": "c16_01",
+        "name": "Sustainable Management",
+        "order": 1,
+        "prerequisites": [],
+        "keyFormula": "The 5 R's",
+        "oneliner": "Refuse, Reduce, Reuse, Repurpose, Recycle.",
+        "examWeight": "medium",
+        "commonError": "Thinking recycling is the most efficient of the R's (Reducing is)."
+      },
+      {
+        "id": "c16_02",
+        "name": "Forests and Wildlife",
+        "order": 2,
+        "prerequisites": [],
+        "keyFormula": "Biodiversity hotspots",
+        "oneliner": "Importance of conservation and stakeholder roles.",
+        "examWeight": "medium",
+        "commonError": "Excluding local people from conservation efforts."
+      },
+      {
+        "id": "c16_03",
+        "name": "Water Harvesting",
+        "order": 3,
+        "prerequisites": [],
+        "keyFormula": "Khadians / Nadis",
+        "oneliner": "Traditional and modern methods to save water.",
+        "examWeight": "high",
+        "commonError": "Thinking dams are the only way to manage water."
+      },
+      {
+        "id": "c16_04",
+        "name": "Coal and Petroleum Conservation",
+        "order": 4,
+        "prerequisites": [],
+        "keyFormula": "N/A",
+        "oneliner": "Reducing dependency on finite fossil fuel resources.",
+        "examWeight": "low",
+        "commonError": "Underestimating the time taken for these to form."
+      }
+    ]
+  }
+]

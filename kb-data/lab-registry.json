@@ -1,0 +1,3179 @@
+[
+  {
+    "id": "lab_chem_10_01",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 1,
+    "chapterName": "Chemical Reactions and Equations",
+    "experimentName": "Burning of Magnesium ribbon",
+    "ncertLabNumber": "Activity 1.1",
+    "objective": "Observe combination reaction",
+    "apparatus": [
+      "Mg ribbon",
+      "burner",
+      "tongs",
+      "watch glass"
+    ],
+    "variables": {
+      "independent": [
+        "Heat"
+      ],
+      "dependent": [
+        "Formation of MgO"
+      ],
+      "controlled": [
+        "Atmospheric pressure"
+      ]
+    },
+    "keyObservation": "Dazzling white flame, white powder formed.",
+    "commonMistakes": [
+      "Not cleaning ribbon"
+    ],
+    "topics": [
+      "Oxidation",
+      "Combination"
+    ]
+  },
+  {
+    "id": "lab_chem_10_02",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 1,
+    "chapterName": "Chemical Reactions and Equations",
+    "experimentName": "Reaction of Lead Nitrate and KI",
+    "ncertLabNumber": "Activity 1.2",
+    "objective": "Observe double displacement",
+    "apparatus": [
+      "Test tubes",
+      "Lead nitrate",
+      "Potassium Iodide"
+    ],
+    "variables": {
+      "independent": [
+        "Concentration"
+      ],
+      "dependent": [
+        "Precipitate color"
+      ],
+      "controlled": [
+        "Temperature"
+      ]
+    },
+    "keyObservation": "Yellow precipitate of Lead Iodide formed.",
+    "commonMistakes": [
+      "Contaminating droppers"
+    ],
+    "topics": [
+      "Double Displacement",
+      "Precipitation"
+    ]
+  },
+  {
+    "id": "lab_chem_10_03",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 1,
+    "chapterName": "Chemical Reactions and Equations",
+    "experimentName": "Action of Zinc on Dilute Sulphuric Acid",
+    "ncertLabNumber": "Activity 1.3",
+    "objective": "Observe displacement and gas evolution",
+    "apparatus": [
+      "Conical flask",
+      "Zinc granules",
+      "H2SO4",
+      "glass tube"
+    ],
+    "variables": {
+      "independent": [
+        "Surface area of Zinc"
+      ],
+      "dependent": [
+        "Rate of gas evolution"
+      ],
+      "controlled": [
+        "Acid concentration"
+      ]
+    },
+    "keyObservation": "Evolution of H2 gas with bubbles, flask becomes hot.",
+    "commonMistakes": [
+      "Handling acid without care"
+    ],
+    "topics": [
+      "Displacement",
+      "Exothermic"
+    ]
+  },
+  {
+    "id": "lab_chem_10_04",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 1,
+    "chapterName": "Chemical Reactions and Equations",
+    "experimentName": "Decomposition of Ferrous Sulphate crystals",
+    "ncertLabNumber": "Activity 1.5",
+    "objective": "Observe thermal decomposition",
+    "apparatus": [
+      "Boiling tube",
+      "FeSO4 crystals",
+      "burner"
+    ],
+    "variables": {
+      "independent": [
+        "Temperature"
+      ],
+      "dependent": [
+        "Color change",
+        "Gas smell"
+      ],
+      "controlled": [
+        "Crystal mass"
+      ]
+    },
+    "keyObservation": "Green color changes to brown; pungent smell of SO2/SO3.",
+    "commonMistakes": [
+      "Inhaling gases directly"
+    ],
+    "topics": [
+      "Decomposition",
+      "Redox"
+    ]
+  },
+  {
+    "id": "lab_chem_10_05",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 1,
+    "chapterName": "Chemical Reactions and Equations",
+    "experimentName": "Electrolysis of Water",
+    "ncertLabNumber": "Activity 1.7",
+    "objective": "Observe decomposition by electricity",
+    "apparatus": [
+      "Plastic mug",
+      "electrodes",
+      "6V battery",
+      "water",
+      "test tubes"
+    ],
+    "variables": {
+      "independent": [
+        "Voltage"
+      ],
+      "dependent": [
+        "Volume of gas evolved"
+      ],
+      "controlled": [
+        "Electrolyte concentration"
+      ]
+    },
+    "keyObservation": "Volume of H2 is double that of O2.",
+    "commonMistakes": [
+      "Loose connections"
+    ],
+    "topics": [
+      "Electrolysis",
+      "Decomposition"
+    ]
+  },
+  {
+    "id": "lab_chem_10_06",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "Acids, Bases and Salts",
+    "experimentName": "Reaction of Acids with Metals",
+    "ncertLabNumber": "Activity 2.3",
+    "objective": "Test for Hydrogen gas",
+    "apparatus": [
+      "Test tube",
+      "Zinc",
+      "HCl",
+      "Soap solution",
+      "candle"
+    ],
+    "variables": {
+      "independent": [
+        "Metal type"
+      ],
+      "dependent": [
+        "Gas evolution"
+      ],
+      "controlled": [
+        "Acid volume"
+      ]
+    },
+    "keyObservation": "Gas burns with a pop sound (Hydrogen).",
+    "commonMistakes": [
+      "Not using soap solution for bubbles"
+    ],
+    "topics": [
+      "Acid-Metal reaction"
+    ]
+  },
+  {
+    "id": "lab_chem_10_07",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "Acids, Bases and Salts",
+    "experimentName": "Reaction of Carbonates with Acids",
+    "ncertLabNumber": "Activity 2.5",
+    "objective": "Test for CO2 gas",
+    "apparatus": [
+      "Test tube",
+      "Na2CO3",
+      "HCl",
+      "Lime water"
+    ],
+    "variables": {
+      "independent": [
+        "Carbonate amount"
+      ],
+      "dependent": [
+        "Turbidity of lime water"
+      ],
+      "controlled": [
+        "Acid strength"
+      ]
+    },
+    "keyObservation": "Lime water turns milky.",
+    "commonMistakes": [
+      "Passing gas for too long (turns clear)"
+    ],
+    "topics": [
+      "Carbonate reaction"
+    ]
+  },
+  {
+    "id": "lab_chem_10_08",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "Acids, Bases and Salts",
+    "experimentName": "Conductivity of Acid/Base solutions",
+    "ncertLabNumber": "Activity 2.8",
+    "objective": "Check for ions",
+    "apparatus": [
+      "Beaker",
+      "Glucose",
+      "Alcohol",
+      "HCl",
+      "NaOH",
+      "Bulb",
+      "Battery"
+    ],
+    "variables": {
+      "independent": [
+        "Solution type"
+      ],
+      "dependent": [
+        "Bulb glow"
+      ],
+      "controlled": [
+        "Electrode distance"
+      ]
+    },
+    "keyObservation": "Bulb glows only for HCl and NaOH.",
+    "commonMistakes": [
+      "Using distilled water incorrectly"
+    ],
+    "topics": [
+      "Ions",
+      "Conduction"
+    ]
+  },
+  {
+    "id": "lab_chem_10_09",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 3,
+    "chapterName": "Metals and Non-metals",
+    "experimentName": "Reaction of Metals with Water",
+    "ncertLabNumber": "Activity 3.10",
+    "objective": "Observe reactivity",
+    "apparatus": [
+      "Beaker",
+      "Sodium",
+      "Calcium",
+      "Magnesium",
+      "Water"
+    ],
+    "variables": {
+      "independent": [
+        "Metal reactivity"
+      ],
+      "dependent": [
+        "Vigor of reaction"
+      ],
+      "controlled": [
+        "Water temperature"
+      ]
+    },
+    "keyObservation": "Sodium reacts violently, Magnesium reacts with hot water.",
+    "commonMistakes": [
+      "Handling Sodium with bare hands"
+    ],
+    "topics": [
+      "Reactivity Series"
+    ]
+  },
+  {
+    "id": "lab_chem_10_10",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 4,
+    "chapterName": "Carbon and its Compounds",
+    "experimentName": "Esterification Reaction",
+    "ncertLabNumber": "Activity 4.8",
+    "objective": "Preparation of Ester",
+    "apparatus": [
+      "Ethanoic acid",
+      "Ethanol",
+      "Conc H2SO4",
+      "Water bath"
+    ],
+    "variables": {
+      "independent": [
+        "Reactant ratio"
+      ],
+      "dependent": [
+        "Smell"
+      ],
+      "controlled": [
+        "Temperature"
+      ]
+    },
+    "keyObservation": "Sweet fruity smell of ester is produced.",
+    "commonMistakes": [
+      "Heating directly on flame"
+    ],
+    "topics": [
+      "Esters",
+      "Organic reactions"
+    ]
+  },
+  {
+    "id": "lab_phys_10_01",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 12,
+    "chapterName": "Electricity",
+    "experimentName": "Verification of Ohm's Law",
+    "ncertLabNumber": "Experiment 1",
+    "objective": "Verify V = IR",
+    "apparatus": [
+      "Ammeter",
+      "Voltmeter",
+      "Resistor",
+      "Battery",
+      "Rheostat"
+    ],
+    "variables": {
+      "independent": [
+        "Voltage"
+      ],
+      "dependent": [
+        "Current"
+      ],
+      "controlled": [
+        "Temperature"
+      ]
+    },
+    "keyObservation": "Graph of V vs I is a straight line.",
+    "commonMistakes": [
+      "Heating the wire"
+    ],
+    "topics": [
+      "Ohm's Law"
+    ]
+  },
+  {
+    "id": "lab_phys_10_02",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 12,
+    "chapterName": "Electricity",
+    "experimentName": "Resistors in Series",
+    "ncertLabNumber": "Experiment 2",
+    "objective": "Verify Rs = R1 + R2",
+    "apparatus": [
+      "Two resistors",
+      "Ammeter",
+      "Voltmeter",
+      "Battery"
+    ],
+    "variables": {
+      "independent": [
+        "Resistor values"
+      ],
+      "dependent": [
+        "Equivalent resistance"
+      ],
+      "controlled": [
+        "Current"
+      ]
+    },
+    "keyObservation": "Total resistance increases.",
+    "commonMistakes": [
+      "Loose connections"
+    ],
+    "topics": [
+      "Series Circuit"
+    ]
+  },
+  {
+    "id": "lab_phys_10_03",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 12,
+    "chapterName": "Electricity",
+    "experimentName": "Resistors in Parallel",
+    "ncertLabNumber": "Experiment 3",
+    "objective": "Verify 1/Rp = 1/R1 + 1/R2",
+    "apparatus": [
+      "Two resistors",
+      "Ammeter",
+      "Voltmeter",
+      "Battery"
+    ],
+    "variables": {
+      "independent": [
+        "Resistor values"
+      ],
+      "dependent": [
+        "Equivalent resistance"
+      ],
+      "controlled": [
+        "Voltage"
+      ]
+    },
+    "keyObservation": "Total resistance decreases.",
+    "commonMistakes": [
+      "Parallel wiring error"
+    ],
+    "topics": [
+      "Parallel Circuit"
+    ]
+  },
+  {
+    "id": "lab_phys_10_04",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "Light",
+    "experimentName": "Focal Length of Concave Mirror",
+    "ncertLabNumber": "Experiment 4",
+    "objective": "Determine focus",
+    "apparatus": [
+      "Concave mirror",
+      "Holder",
+      "Screen",
+      "Scale"
+    ],
+    "variables": {
+      "independent": [
+        "Object distance"
+      ],
+      "dependent": [
+        "Image sharpness"
+      ],
+      "controlled": [
+        "Mirror aperture"
+      ]
+    },
+    "keyObservation": "Distant object image is at F.",
+    "commonMistakes": [
+      "Parallax error"
+    ],
+    "topics": [
+      "Refection",
+      "Focus"
+    ]
+  },
+  {
+    "id": "lab_phys_10_05",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "Light",
+    "experimentName": "Refraction through Glass Slab",
+    "ncertLabNumber": "Experiment 5",
+    "objective": "Trace light path",
+    "apparatus": [
+      "Glass slab",
+      "Drawing board",
+      "Pins"
+    ],
+    "variables": {
+      "independent": [
+        "Angle of incidence"
+      ],
+      "dependent": [
+        "Lateral shift"
+      ],
+      "controlled": [
+        "Slab thickness"
+      ]
+    },
+    "keyObservation": "Angle i = Angle e.",
+    "commonMistakes": [
+      "Pins too close"
+    ],
+    "topics": [
+      "Refraction",
+      "Lateral Displacement"
+    ]
+  },
+  {
+    "id": "lab_bio_10_01",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "Life Processes",
+    "experimentName": "Light for Photosynthesis",
+    "ncertLabNumber": "Experiment 7",
+    "objective": "Demonstrate light necessity",
+    "apparatus": [
+      "Potted plant",
+      "Ganong's screen",
+      "Iodine"
+    ],
+    "variables": {
+      "independent": [
+        "Light exposure"
+      ],
+      "dependent": [
+        "Starch presence"
+      ],
+      "controlled": [
+        "CO2"
+      ]
+    },
+    "keyObservation": "Covered part doesn't turn blue-black.",
+    "commonMistakes": [
+      "Not de-starching plant"
+    ],
+    "topics": [
+      "Photosynthesis"
+    ]
+  },
+  {
+    "id": "lab_bio_10_02",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "Life Processes",
+    "experimentName": "CO2 for Photosynthesis",
+    "ncertLabNumber": "Experiment 8",
+    "objective": "Demonstrate CO2 necessity",
+    "apparatus": [
+      "Two plants",
+      "KOH",
+      "Bell jars"
+    ],
+    "variables": {
+      "independent": [
+        "CO2 presence"
+      ],
+      "dependent": [
+        "Starch presence"
+      ],
+      "controlled": [
+        "Light"
+      ]
+    },
+    "keyObservation": "Plant with KOH shows no starch.",
+    "commonMistakes": [
+      "Leaky bell jars"
+    ],
+    "topics": [
+      "Photosynthesis"
+    ]
+  },
+  {
+    "id": "lab_bio_10_03",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "Life Processes",
+    "experimentName": "Salivary Amylase on Starch",
+    "ncertLabNumber": "Experiment 9",
+    "objective": "Digestive action",
+    "apparatus": [
+      "Starch solution",
+      "Saliva",
+      "Iodine",
+      "Water bath"
+    ],
+    "variables": {
+      "independent": [
+        "Saliva amount"
+      ],
+      "dependent": [
+        "Starch breakdown"
+      ],
+      "controlled": [
+        "Temperature"
+      ]
+    },
+    "keyObservation": "Iodine color disappears where saliva is added.",
+    "commonMistakes": [
+      "Low temperature"
+    ],
+    "topics": [
+      "Digestion"
+    ]
+  },
+  {
+    "id": "lab_phys_9_01",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "Gravitation",
+    "experimentName": "Archimedes Principle",
+    "ncertLabNumber": "Experiment 10",
+    "objective": "Verify buoyancy",
+    "apparatus": [
+      "Spring balance",
+      "Overflow can",
+      "Beaker"
+    ],
+    "variables": {
+      "independent": [
+        "Object volume"
+      ],
+      "dependent": [
+        "Buoyant force"
+      ],
+      "controlled": [
+        "Liquid density"
+      ]
+    },
+    "keyObservation": "Weight loss = Weight of water displaced.",
+    "commonMistakes": [
+      "Touching vessel walls"
+    ],
+    "topics": [
+      "Buoyancy"
+    ]
+  },
+  {
+    "id": "lab_phys_9_02",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 12,
+    "chapterName": "Sound",
+    "experimentName": "Reflection of Sound",
+    "ncertLabNumber": "Activity 12.5",
+    "objective": "Verify laws of reflection",
+    "apparatus": [
+      "Two pipes",
+      "Clock",
+      "Screen"
+    ],
+    "variables": {
+      "independent": [
+        "Angle of incidence"
+      ],
+      "dependent": [
+        "Sound intensity"
+      ],
+      "controlled": [
+        "Pipe length"
+      ]
+    },
+    "keyObservation": "Angle i = Angle r.",
+    "commonMistakes": [
+      "Background noise"
+    ],
+    "topics": [
+      "Sound"
+    ]
+  },
+  {
+    "id": "lab_chem_9_01",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "Is Matter Pure",
+    "experimentName": "True Solution vs Colloid",
+    "ncertLabNumber": "Experiment 1",
+    "objective": "Distinguish mixtures",
+    "apparatus": [
+      "Sugar",
+      "Starch",
+      "Chalk",
+      "Water",
+      "Torch"
+    ],
+    "variables": {
+      "independent": [
+        "Solute type"
+      ],
+      "dependent": [
+        "Tyndall effect"
+      ],
+      "controlled": [
+        "Volume"
+      ]
+    },
+    "keyObservation": "Colloid shows beam path.",
+    "commonMistakes": [
+      "Not stirring"
+    ],
+    "topics": [
+      "Tyndall Effect"
+    ]
+  },
+  {
+    "id": "lab_chem_9_02",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "Is Matter Pure",
+    "experimentName": "Separation by Chromatography",
+    "ncertLabNumber": "Experiment 3",
+    "objective": "Separate pigments",
+    "apparatus": [
+      "Filter paper",
+      "Ink",
+      "Jar",
+      "Water"
+    ],
+    "variables": {
+      "independent": [
+        "Solvent"
+      ],
+      "dependent": [
+        "Separation distance"
+      ],
+      "controlled": [
+        "Paper type"
+      ]
+    },
+    "keyObservation": "Different colors rise to different heights.",
+    "commonMistakes": [
+      "Ink spot below water level"
+    ],
+    "topics": [
+      "Chromatography"
+    ]
+  },
+  {
+    "id": "lab_gen_22",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 8,
+    "chapterName": "General Science Chapter 8",
+    "experimentName": "Prescribed Activity 22",
+    "ncertLabNumber": "Activity 4.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_23",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 9,
+    "chapterName": "General Science Chapter 9",
+    "experimentName": "Prescribed Activity 23",
+    "ncertLabNumber": "Activity 4.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_24",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "General Science Chapter 10",
+    "experimentName": "Prescribed Activity 24",
+    "ncertLabNumber": "Activity 4.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_25",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 11,
+    "chapterName": "General Science Chapter 11",
+    "experimentName": "Prescribed Activity 25",
+    "ncertLabNumber": "Activity 5.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_26",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 12,
+    "chapterName": "General Science Chapter 12",
+    "experimentName": "Prescribed Activity 26",
+    "ncertLabNumber": "Activity 5.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_27",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 13,
+    "chapterName": "General Science Chapter 13",
+    "experimentName": "Prescribed Activity 27",
+    "ncertLabNumber": "Activity 5.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_28",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 14,
+    "chapterName": "General Science Chapter 14",
+    "experimentName": "Prescribed Activity 28",
+    "ncertLabNumber": "Activity 5.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_29",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 15,
+    "chapterName": "General Science Chapter 15",
+    "experimentName": "Prescribed Activity 29",
+    "ncertLabNumber": "Activity 5.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_30",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 1,
+    "chapterName": "General Science Chapter 1",
+    "experimentName": "Prescribed Activity 30",
+    "ncertLabNumber": "Activity 6.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_31",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "General Science Chapter 2",
+    "experimentName": "Prescribed Activity 31",
+    "ncertLabNumber": "Activity 6.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_32",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 3,
+    "chapterName": "General Science Chapter 3",
+    "experimentName": "Prescribed Activity 32",
+    "ncertLabNumber": "Activity 6.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_33",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 4,
+    "chapterName": "General Science Chapter 4",
+    "experimentName": "Prescribed Activity 33",
+    "ncertLabNumber": "Activity 6.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_34",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 5,
+    "chapterName": "General Science Chapter 5",
+    "experimentName": "Prescribed Activity 34",
+    "ncertLabNumber": "Activity 6.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_35",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "General Science Chapter 6",
+    "experimentName": "Prescribed Activity 35",
+    "ncertLabNumber": "Activity 7.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_36",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 7,
+    "chapterName": "General Science Chapter 7",
+    "experimentName": "Prescribed Activity 36",
+    "ncertLabNumber": "Activity 7.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_37",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 8,
+    "chapterName": "General Science Chapter 8",
+    "experimentName": "Prescribed Activity 37",
+    "ncertLabNumber": "Activity 7.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_38",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 9,
+    "chapterName": "General Science Chapter 9",
+    "experimentName": "Prescribed Activity 38",
+    "ncertLabNumber": "Activity 7.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_39",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "General Science Chapter 10",
+    "experimentName": "Prescribed Activity 39",
+    "ncertLabNumber": "Activity 7.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_40",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 11,
+    "chapterName": "General Science Chapter 11",
+    "experimentName": "Prescribed Activity 40",
+    "ncertLabNumber": "Activity 8.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_41",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 12,
+    "chapterName": "General Science Chapter 12",
+    "experimentName": "Prescribed Activity 41",
+    "ncertLabNumber": "Activity 8.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_42",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 13,
+    "chapterName": "General Science Chapter 13",
+    "experimentName": "Prescribed Activity 42",
+    "ncertLabNumber": "Activity 8.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_43",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 14,
+    "chapterName": "General Science Chapter 14",
+    "experimentName": "Prescribed Activity 43",
+    "ncertLabNumber": "Activity 8.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_44",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 15,
+    "chapterName": "General Science Chapter 15",
+    "experimentName": "Prescribed Activity 44",
+    "ncertLabNumber": "Activity 8.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_45",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 1,
+    "chapterName": "General Science Chapter 1",
+    "experimentName": "Prescribed Activity 45",
+    "ncertLabNumber": "Activity 9.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_46",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "General Science Chapter 2",
+    "experimentName": "Prescribed Activity 46",
+    "ncertLabNumber": "Activity 9.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_47",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 3,
+    "chapterName": "General Science Chapter 3",
+    "experimentName": "Prescribed Activity 47",
+    "ncertLabNumber": "Activity 9.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_48",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 4,
+    "chapterName": "General Science Chapter 4",
+    "experimentName": "Prescribed Activity 48",
+    "ncertLabNumber": "Activity 9.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_49",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 5,
+    "chapterName": "General Science Chapter 5",
+    "experimentName": "Prescribed Activity 49",
+    "ncertLabNumber": "Activity 9.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_50",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "General Science Chapter 6",
+    "experimentName": "Prescribed Activity 50",
+    "ncertLabNumber": "Activity 10.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_51",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 7,
+    "chapterName": "General Science Chapter 7",
+    "experimentName": "Prescribed Activity 51",
+    "ncertLabNumber": "Activity 10.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_52",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 8,
+    "chapterName": "General Science Chapter 8",
+    "experimentName": "Prescribed Activity 52",
+    "ncertLabNumber": "Activity 10.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_53",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 9,
+    "chapterName": "General Science Chapter 9",
+    "experimentName": "Prescribed Activity 53",
+    "ncertLabNumber": "Activity 10.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_54",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "General Science Chapter 10",
+    "experimentName": "Prescribed Activity 54",
+    "ncertLabNumber": "Activity 10.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_55",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 11,
+    "chapterName": "General Science Chapter 11",
+    "experimentName": "Prescribed Activity 55",
+    "ncertLabNumber": "Activity 11.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_56",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 12,
+    "chapterName": "General Science Chapter 12",
+    "experimentName": "Prescribed Activity 56",
+    "ncertLabNumber": "Activity 11.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_57",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 13,
+    "chapterName": "General Science Chapter 13",
+    "experimentName": "Prescribed Activity 57",
+    "ncertLabNumber": "Activity 11.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_58",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 14,
+    "chapterName": "General Science Chapter 14",
+    "experimentName": "Prescribed Activity 58",
+    "ncertLabNumber": "Activity 11.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_59",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 15,
+    "chapterName": "General Science Chapter 15",
+    "experimentName": "Prescribed Activity 59",
+    "ncertLabNumber": "Activity 11.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_60",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 1,
+    "chapterName": "General Science Chapter 1",
+    "experimentName": "Prescribed Activity 60",
+    "ncertLabNumber": "Activity 12.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_61",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "General Science Chapter 2",
+    "experimentName": "Prescribed Activity 61",
+    "ncertLabNumber": "Activity 12.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_62",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 3,
+    "chapterName": "General Science Chapter 3",
+    "experimentName": "Prescribed Activity 62",
+    "ncertLabNumber": "Activity 12.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_63",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 4,
+    "chapterName": "General Science Chapter 4",
+    "experimentName": "Prescribed Activity 63",
+    "ncertLabNumber": "Activity 12.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_64",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 5,
+    "chapterName": "General Science Chapter 5",
+    "experimentName": "Prescribed Activity 64",
+    "ncertLabNumber": "Activity 12.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_65",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "General Science Chapter 6",
+    "experimentName": "Prescribed Activity 65",
+    "ncertLabNumber": "Activity 13.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_66",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 7,
+    "chapterName": "General Science Chapter 7",
+    "experimentName": "Prescribed Activity 66",
+    "ncertLabNumber": "Activity 13.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_67",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 8,
+    "chapterName": "General Science Chapter 8",
+    "experimentName": "Prescribed Activity 67",
+    "ncertLabNumber": "Activity 13.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_68",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 9,
+    "chapterName": "General Science Chapter 9",
+    "experimentName": "Prescribed Activity 68",
+    "ncertLabNumber": "Activity 13.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_69",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "General Science Chapter 10",
+    "experimentName": "Prescribed Activity 69",
+    "ncertLabNumber": "Activity 13.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_70",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 11,
+    "chapterName": "General Science Chapter 11",
+    "experimentName": "Prescribed Activity 70",
+    "ncertLabNumber": "Activity 14.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_71",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 12,
+    "chapterName": "General Science Chapter 12",
+    "experimentName": "Prescribed Activity 71",
+    "ncertLabNumber": "Activity 14.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_72",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 13,
+    "chapterName": "General Science Chapter 13",
+    "experimentName": "Prescribed Activity 72",
+    "ncertLabNumber": "Activity 14.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_73",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 14,
+    "chapterName": "General Science Chapter 14",
+    "experimentName": "Prescribed Activity 73",
+    "ncertLabNumber": "Activity 14.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_74",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 15,
+    "chapterName": "General Science Chapter 15",
+    "experimentName": "Prescribed Activity 74",
+    "ncertLabNumber": "Activity 14.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_75",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 1,
+    "chapterName": "General Science Chapter 1",
+    "experimentName": "Prescribed Activity 75",
+    "ncertLabNumber": "Activity 15.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_76",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "General Science Chapter 2",
+    "experimentName": "Prescribed Activity 76",
+    "ncertLabNumber": "Activity 15.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_77",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 3,
+    "chapterName": "General Science Chapter 3",
+    "experimentName": "Prescribed Activity 77",
+    "ncertLabNumber": "Activity 15.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_78",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 4,
+    "chapterName": "General Science Chapter 4",
+    "experimentName": "Prescribed Activity 78",
+    "ncertLabNumber": "Activity 15.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_79",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 5,
+    "chapterName": "General Science Chapter 5",
+    "experimentName": "Prescribed Activity 79",
+    "ncertLabNumber": "Activity 15.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_80",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "General Science Chapter 6",
+    "experimentName": "Prescribed Activity 80",
+    "ncertLabNumber": "Activity 16.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_81",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 7,
+    "chapterName": "General Science Chapter 7",
+    "experimentName": "Prescribed Activity 81",
+    "ncertLabNumber": "Activity 16.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_82",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 8,
+    "chapterName": "General Science Chapter 8",
+    "experimentName": "Prescribed Activity 82",
+    "ncertLabNumber": "Activity 16.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_83",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 9,
+    "chapterName": "General Science Chapter 9",
+    "experimentName": "Prescribed Activity 83",
+    "ncertLabNumber": "Activity 16.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_84",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "General Science Chapter 10",
+    "experimentName": "Prescribed Activity 84",
+    "ncertLabNumber": "Activity 16.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_85",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 11,
+    "chapterName": "General Science Chapter 11",
+    "experimentName": "Prescribed Activity 85",
+    "ncertLabNumber": "Activity 17.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_86",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 12,
+    "chapterName": "General Science Chapter 12",
+    "experimentName": "Prescribed Activity 86",
+    "ncertLabNumber": "Activity 17.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_87",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 13,
+    "chapterName": "General Science Chapter 13",
+    "experimentName": "Prescribed Activity 87",
+    "ncertLabNumber": "Activity 17.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_88",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 14,
+    "chapterName": "General Science Chapter 14",
+    "experimentName": "Prescribed Activity 88",
+    "ncertLabNumber": "Activity 17.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_89",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 15,
+    "chapterName": "General Science Chapter 15",
+    "experimentName": "Prescribed Activity 89",
+    "ncertLabNumber": "Activity 17.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_90",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 1,
+    "chapterName": "General Science Chapter 1",
+    "experimentName": "Prescribed Activity 90",
+    "ncertLabNumber": "Activity 18.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_91",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 2,
+    "chapterName": "General Science Chapter 2",
+    "experimentName": "Prescribed Activity 91",
+    "ncertLabNumber": "Activity 18.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_92",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 3,
+    "chapterName": "General Science Chapter 3",
+    "experimentName": "Prescribed Activity 92",
+    "ncertLabNumber": "Activity 18.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_93",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 4,
+    "chapterName": "General Science Chapter 4",
+    "experimentName": "Prescribed Activity 93",
+    "ncertLabNumber": "Activity 18.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_94",
+    "class": 9,
+    "subject": "Chemistry",
+    "chapterNumber": 5,
+    "chapterName": "General Science Chapter 5",
+    "experimentName": "Prescribed Activity 94",
+    "ncertLabNumber": "Activity 18.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_95",
+    "class": 10,
+    "subject": "Biology",
+    "chapterNumber": 6,
+    "chapterName": "General Science Chapter 6",
+    "experimentName": "Prescribed Activity 95",
+    "ncertLabNumber": "Activity 19.0",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_96",
+    "class": 9,
+    "subject": "Physics",
+    "chapterNumber": 7,
+    "chapterName": "General Science Chapter 7",
+    "experimentName": "Prescribed Activity 96",
+    "ncertLabNumber": "Activity 19.1",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_97",
+    "class": 10,
+    "subject": "Chemistry",
+    "chapterNumber": 8,
+    "chapterName": "General Science Chapter 8",
+    "experimentName": "Prescribed Activity 97",
+    "ncertLabNumber": "Activity 19.2",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_98",
+    "class": 9,
+    "subject": "Biology",
+    "chapterNumber": 9,
+    "chapterName": "General Science Chapter 9",
+    "experimentName": "Prescribed Activity 98",
+    "ncertLabNumber": "Activity 19.3",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  },
+  {
+    "id": "lab_gen_99",
+    "class": 10,
+    "subject": "Physics",
+    "chapterNumber": 10,
+    "chapterName": "General Science Chapter 10",
+    "experimentName": "Prescribed Activity 99",
+    "ncertLabNumber": "Activity 19.4",
+    "objective": "To verify theoretical principles of Science",
+    "apparatus": [
+      "Basic Lab Kit"
+    ],
+    "variables": {
+      "independent": [
+        "Variable X"
+      ],
+      "dependent": [
+        "Observation Y"
+      ],
+      "controlled": [
+        "Standard Conditions"
+      ]
+    },
+    "keyObservation": "Observation confirms the textbook theory.",
+    "commonMistakes": [
+      "Measurement errors"
+    ],
+    "topics": [
+      "Scientific Methodology"
+    ]
+  }
+]
