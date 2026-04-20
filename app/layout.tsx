@@ -17,9 +17,9 @@ const inter = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'OpenMAIC',
+  title: 'OpenVidya',
   description:
-    'The open-source AI interactive classroom. Upload a PDF to instantly generate an immersive, multi-agent learning experience.',
+    'AI-powered learning for India. Generate NCERT/CBSE-grounded lessons with named teacher personas — Teacher Narration, Story Quest, Exam Dojo, Lab Without Walls, Rapid Revision.',
 };
 
 export default function RootLayout({

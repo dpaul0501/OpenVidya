@@ -87,7 +87,7 @@ export const EDUCATION_MODES: ModeConfig[] = [
   {
     id: 'openmaic',
     emoji: '🎓',
-    label: 'OpenMAIC',
+    label: 'OpenVidya Classic',
     description: 'AI classroom with teacher, students & discussion',
     detail: 'Full classroom simulation — teacher, assistant, and student personas all participate.',
   },
