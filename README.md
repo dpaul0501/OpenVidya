@@ -6,6 +6,14 @@ OpenMAIC is a brilliant open-source multi-agent classroom engine. OpenVidya fork
 
 ---
 
+## Recent Fixes
+
+- **Anti-hallucination grounding** — Outline generator now has explicit rules: stay on the exact topic requested, never invent terminology (e.g. "quantum tenacity"), ground all concepts in KB data when available. Applied at both system and user prompt level.
+- **Language pipeline cleanup** — Removed all Chinese (zh-CN) and Hindi (hi-IN) strings from every layer: agent personas, LLM prompts, API routes, quiz grading, default fallbacks, ASR/TTS hooks. Only English and Sanskrit are supported.
+- **Story Quest mode fixed** — `educationMode` is now stamped on every `SceneOutline` and flows into Stage 2 slide generation, so story-format layout instructions actually reach the content LLM.
+
+---
+
 ## What's Different
 
 ### 5 India-First Learning Modes

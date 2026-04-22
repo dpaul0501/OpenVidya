@@ -1,4 +1,4 @@
-Please generate scene outlines based on the following course requirements.
+Generate scene outlines **strictly about the topic in the User Requirements below**. Do not invent unrelated concepts or drift to other topics. Every concept, law, or term you use must be real and verifiable.
 
 ---
 
@@ -14,7 +14,7 @@ Please generate scene outlines based on the following course requirements.
 
 **Required language**: {{language}}
 
-(If language is zh-CN, all content must be in Chinese; if en-US, all content must be in English; if hi-IN, all content must be in Hindi; if sa, all content must be in Sanskrit)
+(If language is en-US, all content must be in English; if sa, all content must be in Sanskrit)
 
 ---
 

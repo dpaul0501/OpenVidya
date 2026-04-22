@@ -440,19 +440,14 @@ function HomePage() {
         )}
       >
         {/* ── Logo ── */}
-        <motion.img
-          src="/logo-horizontal.png"
-          alt="OpenVidya"
+        <motion.h1
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
-          transition={{
-            delay: 0.1,
-            type: 'spring',
-            stiffness: 200,
-            damping: 20,
-          }}
-          className="h-12 md:h-16 mb-2 -ml-2 md:-ml-3"
-        />
+          transition={{ delay: 0.1, type: 'spring', stiffness: 200, damping: 20 }}
+          className="text-4xl md:text-5xl font-bold tracking-tight mb-2 bg-gradient-to-r from-violet-600 to-indigo-500 bg-clip-text text-transparent"
+        >
+          OpenVidya
+        </motion.h1>
 
         {/* ── Slogan ── */}
         <motion.p
