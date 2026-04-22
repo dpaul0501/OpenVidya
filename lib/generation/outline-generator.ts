@@ -203,7 +203,7 @@ export function applyOutlineFallbacks(
  * Build mode-specific instructions injected into the outline generation prompt.
  * Tells the LLM how to bias scene types and question styles for each mode.
  */
-function buildEducationModeContext(mode: string | undefined): string {
+export function buildEducationModeContext(mode: string | undefined): string {
   switch (mode) {
     case 'exam-dojo':
       return `## Exam Dojo Mode — Concept Drill Pattern

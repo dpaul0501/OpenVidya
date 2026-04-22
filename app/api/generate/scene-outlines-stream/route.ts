@@ -33,6 +33,8 @@ import type {
 import { apiError } from '@/lib/server/api-response';
 import { createLogger } from '@/lib/logger';
 import { resolveModelFromHeaders } from '@/lib/server/resolve-model';
+import { buildKBContext } from '@/lib/kb/lookup';
+import { buildEducationModeContext } from '@/lib/generation/outline-generator';
 const log = createLogger('Outlines Stream');
 
 export const maxDuration = 300;
@@ -171,6 +173,24 @@ export async function POST(req: NextRequest) {
     // Build teacher context from agents (if available)
     const teacherContext = formatTeacherPersonaForPrompt(agents);
 
+    // Build education-mode scene guidance and KB grounding
+    const educationModeContext = buildEducationModeContext(requirements.educationMode);
+    const kbContext = buildKBContext(
+      requirements.requirement,
+      requirements.studentClass ?? null,
+      requirements.educationMode,
+    );
+
+    // Build user profile string
+    const profileParts: string[] = [];
+    if (requirements.userNickname || requirements.userBio) {
+      profileParts.push(
+        `## Student Profile\n\nStudent: ${requirements.userNickname || 'Unknown'}${requirements.userBio ? ` — ${requirements.userBio}` : ''}\n\nConsider this student's background when designing the course.\n\n---`,
+      );
+    }
+    if (requirements.curriculumContext) profileParts.push(requirements.curriculumContext);
+    const userProfile = profileParts.join('\n\n');
+
     const prompts = buildPrompt(PROMPT_IDS.REQUIREMENTS_TO_OUTLINES, {
       requirement: requirements.requirement,
       language: requirements.language,
@@ -179,6 +199,9 @@ export async function POST(req: NextRequest) {
       researchContext: researchContext || 'None',
       mediaGenerationPolicy,
       teacherContext,
+      educationModeContext,
+      kbContext: kbContext || 'No KB match for this topic — generate from first principles.',
+      userProfile,
     });
 
     if (!prompts) {
