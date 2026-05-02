@@ -99,7 +99,7 @@ OpenVidya is a fork of [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) by THU-M
 <img width="1025" height="644" alt="Screenshot 2026-05-01 at 7 32 40 PM" src="" />
 
 
-[![Watch the video][https://github.com/user-attachments/assets/e840173d-092a-491e-871b-9eaab8c99f72](https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=2BYHf388Rb8)
+[![Watch the video](https://github.com/user-attachments/assets/e840173d-092a-491e-871b-9eaab8c99f72)](https://www.youtube.com/watch?v=2BYHf388Rb8)
 
 
 ## What's Next
