@@ -4,6 +4,7 @@
 
 OpenMAIC is a brilliant open-source multi-agent classroom engine. OpenVidya forks it with one thesis: **Indian students learn differently**, and their AI teacher should know that.
 
+Developed by [Debjyoti](https://www.linkedin.com/](https://www.linkedin.com/in/debjyoti-paul-6a41ab47/)
 ---
 
 ## Recent Fixes
@@ -96,7 +97,6 @@ OpenVidya is a fork of [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) by THU-M
 ---
 
 ## Demo
-<img width="1025" height="644" alt="Screenshot 2026-05-01 at 7 32 40 PM" src="" />
 
 
 [![Watch the video](https://github.com/user-attachments/assets/e840173d-092a-491e-871b-9eaab8c99f72)](https://www.youtube.com/watch?v=2BYHf388Rb8)
