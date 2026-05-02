@@ -4,7 +4,7 @@
 
 OpenMAIC is a brilliant open-source multi-agent classroom engine. OpenVidya forks it with one thesis: **Indian students learn differently**, and their AI teacher should know that.
 
-Developed by [Debjyoti](https://www.linkedin.com/](https://www.linkedin.com/in/debjyoti-paul-6a41ab47/)
+Developed by [Debjyoti](https://www.linkedin.com/in/debjyoti-paul-6a41ab47/)
 ---
 
 ## Recent Fixes
